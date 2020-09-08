@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Student>
+    <studentID>1001</studentID>
+    <name>Harvey Kim</name>
+    <dob>1996-12-12</dob>
+    <Enrollment>
+      <EnrollmentID>3001</EnrollmentID>
+      <CourseID>BUSX2003</CourseID>
+      <name>Spreadsheet Modeling</name>
+      <credits>2</credits>
+      <enrollmentCap>55</enrollmentCap>
+      <startDate>2020-08-31</startDate>
+      <Grade></Grade>
+    </Enrollment>
+    <Enrollment>
+      <EnrollmentID>3002</EnrollmentID>
+      <CourseID>BUSX2004</CourseID>
+      <name>Pricing Management</name>
+      <credits>2</credits>
+      <enrollmentCap>50</enrollmentCap>
+      <startDate>2020-01-12</startDate>
+      <Grade>A</Grade>
+    </Enrollment>
+    <Enrollment>
+      <EnrollmentID>3003</EnrollmentID>
+      <CourseID>BUSX2001</CourseID>
+      <name>Economics</name>
+      <credits>3</credits>
+      <enrollmentCap>45</enrollmentCap>
+      <startDate>2020-08-31</startDate>
+      <Grade></Grade>
+    </Enrollment>
+  </row>
+  <row>
+    <studentID>1002</studentID>
+    <name>Emilia Harris</name>
+    <dob>1999-05-06</dob>
+    <Enrollment>
+      <EnrollmentID>3004</EnrollmentID>
+      <CourseID>BUSX2001</CourseID>
+      <name>Economics</name>
+      <credits>3</credits>
+      <enrollmentCap>45</enrollmentCap>
+      <startDate>2020-08-31</startDate>
+      <Grade></Grade>
+    </Enrollment>
+    <Enrollment>
+      <EnrollmentID>3005</EnrollmentID>
+      <CourseID>BUSX2002</CourseID>
+      <name>Applied Statistics</name>
+      <credits>2</credits>
+      <enrollmentCap>20</enrollmentCap>
+      <startDate>2020-08-31</startDate>
+      <Grade></Grade>
+    </Enrollment>
+    <Enrollment>
+      <EnrollmentID>3006</EnrollmentID>
+      <CourseID>BUSX2003</CourseID>
+      <name>Spreadsheet Modeling</name>
+      <credits>2</credits>
+      <enrollmentCap>55</enrollmentCap>
+      <startDate>2020-08-31</startDate>
+      <Grade></Grade>
+    </Enrollment>
+    <Enrollment>
+      <EnrollmentID>3007</EnrollmentID>
+      <CourseID>BUSX2004</CourseID>
+      <name>Pricing Management</name>
+      <credits>2</credits>
+      <enrollmentCap>50</enrollmentCap>
+      <startDate>2020-01-12</startDate>
+      <Grade>B-</Grade>
+    </Enrollment>
+  </row>
+  <row>
+    <studentID>1003</studentID>
+    <name>Brian McCallister</name>
+    <dob>1997-04-16</dob>
+    <Enrollment>
+      <EnrollmentID>3008</EnrollmentID>
+      <CourseID>BUSX2002</CourseID>
+      <name>Applied Statistics</name>
+      <credits>2</credits>
+      <enrollmentCap>20</enrollmentCap>
+      <startDate>2020-08-31</startDate>
+      <Grade></Grade>
+    </Enrollment>
+    <Enrollment>
+      <EnrollmentID>3009</EnrollmentID>
+      <CourseID>BUSX2001</CourseID>
+      <name>Economics</name>
+      <credits>3</credits>
+      <enrollmentCap>45</enrollmentCap>
+      <startDate>2020-08-31</startDate>
+      <Grade></Grade>
+    </Enrollment>
+  </Student>
+</root>
